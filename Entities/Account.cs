@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
+using BankAccount.Entities.Exceptions;
 
 namespace BankAccount.Entities
 {
@@ -23,11 +24,20 @@ namespace BankAccount.Entities
         }
         public void deposit(double amount)
         {
+
             Balance += amount;
 
         }
         public void Withdraw(double amount)
         {
+            if(amount > WithdrawLimit)
+            {
+                throw new DomainExceptions("Withdraw amount must be smaller than your limit");
+            }
+            if(amount > Balance)
+            {
+                throw new DomainExceptions("Withdraw amount must be smaller than you balance");
+            }
             Balance -= amount;
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\feron\Desktop\C#\BankAccount\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
